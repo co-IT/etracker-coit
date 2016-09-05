@@ -1,0 +1,16 @@
+{
+  "name": "etracker-coit",
+  "version": "1.0.13",
+  "description": "loads the tracklet from etracker",
+  "main": "decisionHelper.js",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "author": "info@co-IT.eu",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "sinon": "^1.17.4"
+  }
+}
